@@ -1,0 +1,3 @@
+ReportName,Execute,ExecuteAll,SU,DI,AGG,DTL
+Report A,Yes,Yes,Yes,Yes,Yes,Yes
+Report B,Yes,No,Yes,No,No,No
